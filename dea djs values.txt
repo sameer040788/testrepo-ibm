@@ -1,0 +1,5 @@
+metric names: 
+
+days 40
+
+dimensions: technical_name,quantity,ponderation,location,customer_ship_option,ship_method,is_instock,ship_option_group,ship_option_group_2,wwdea_fulfillment_type,wwdea_is_ssd
